@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=V9244FjHT2M&index=5&list=PLmcxdcWPhFqMq2BctGktOcIJKUw23wJeh
+https://www.youtube.com/watch?v=NveANoe_Zog&index=10&list=PLmcxdcWPhFqMq2BctGktOcIJKUw23wJeh
+
+tutorial 9
+
+maven build:
+run as -> jetty:run
+localhost:8080/index.html
